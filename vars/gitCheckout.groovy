@@ -1,2 +1,2 @@
 def call()
-  sh 'git clone https://github.com/thaz2111/Jenkins-Zero-To-Hero.git'
+  'git branch: 'main', url: 'https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero.git'
